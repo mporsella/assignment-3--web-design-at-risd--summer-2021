@@ -14,3 +14,7 @@ header {
   padding-left: 40px;
 }
 
+header p {
+  text-align: center;
+}
+
